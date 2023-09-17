@@ -1,6 +1,7 @@
 go 1.19
 
 use (
-	./challenge-1
+	./mutex
 	./race-conditionals
+	./wait-grup
 )
